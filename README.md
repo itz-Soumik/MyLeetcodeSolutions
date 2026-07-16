@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
