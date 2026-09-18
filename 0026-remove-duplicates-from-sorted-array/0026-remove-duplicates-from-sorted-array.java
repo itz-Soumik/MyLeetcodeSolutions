@@ -7,7 +7,6 @@ class Solution {
                 nums[slow] = nums[fast];
             }
         }
-        int k = slow + 1;
-        return k;
+        return slow + 1;
     }
 }
