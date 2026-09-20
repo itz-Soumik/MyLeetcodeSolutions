@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0704-binary-search) |
+| [0896-monotonic-array](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
 | ------- |
