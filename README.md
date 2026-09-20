@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0013-roman-to-integer) |
+| [0796-rotate-string](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0704-binary-search) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
