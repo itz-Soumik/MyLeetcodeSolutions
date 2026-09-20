@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0896-monotonic-array) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itz-Soumik/MyLeetcodeSolutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
