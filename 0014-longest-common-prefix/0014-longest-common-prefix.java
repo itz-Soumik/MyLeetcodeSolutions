@@ -8,6 +8,6 @@ class Solution {
             sb.append(strs[0].charAt(i));
             i++;
         }
-        return sb.toString();
+        return new String(sb);
     }
 }
